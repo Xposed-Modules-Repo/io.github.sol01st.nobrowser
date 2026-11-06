@@ -2,6 +2,8 @@
 
 一个 LSPosed 模块：在微信、QQ、TIM、QQ邮箱、钉钉、百度贴吧等应用里点击链接时，把链接从应用内置浏览器里抢出来，交给你自己的浏览器打开。
 
+测试环境 HyperOS4 Android17
+
 基于 [xloger/ExLink](https://github.com/xloger/ExLink) 重写，使用 LSPosed 新一代 **libxposed API 102**，界面用 **Miuix** 重做。
 
 - 包名：`io.github.sol01st.nobrowser`
