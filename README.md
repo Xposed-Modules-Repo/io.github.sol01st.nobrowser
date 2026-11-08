@@ -12,7 +12,9 @@
   <img src="https://raw.githubusercontent.com/SoL01St/exlindev/main/docs/screenshot-edit.jpg" width="280" alt="规则页" />
 </p>
 
-默认接管：QQ、微信、QQ邮箱、百度贴吧、钉钉、TIM。其他应用点右下角 `+` 添加，需用户自行添加规则。
+
+**默认接管：QQ、微信、QQ邮箱、百度贴吧、钉钉、TIM。其他应用点右下角 `+` 添加，需用户自行添加规则。**
+
 
 ## 功能
 
