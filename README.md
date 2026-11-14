@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/SoL01St/exlindev/main/docs/screenshot-home.jpg" width="280" alt="首页" />
 </p>
 
-**默认接管：QQ、微信、QQ邮箱、百度贴吧、钉钉、TIM、闲鱼。其他应用点右下角 `+` 添加。**
+**默认接管：QQ、微信、QQ邮箱、百度贴吧、钉钉、TIM、闲鱼。其他应用点右下角 `+` 添加，需自行添加规则。**
 
 ## 功能
 
@@ -21,7 +21,7 @@
 - **模块日志**：判定结果与原因，可复制、导出
 - **规则引擎**：Activity 通配、单条启停、白名单 `=host`
 - **实时生效**、作用域双向同步
-- **备份恢复**、JSON 导入导出、诊断报告
+- **备份恢复**、JSON 导入导出
 - **界面**：折叠顶栏、悬浮底栏、实时毛玻璃，主题跟随系统
 
 ## 安装
@@ -32,6 +32,8 @@
 4. 首次接管某个应用后，需要在 LSPosed 作用域里对它重新勾选一次
 
 ## 致谢
+
+拦截规则与整体思路来自 xloger/ExLink；界面基于 Miuix 组件库，毛玻璃效果使用 haze；模块框架为 libxposed API。
 
 - [xloger/ExLink](https://github.com/xloger/ExLink)
 - [libxposed/api](https://github.com/libxposed/api)
