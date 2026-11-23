@@ -3,7 +3,7 @@
 一个 LSPosed 模块：在微信、QQ、TIM、QQ邮箱、钉钉、百度贴吧、闲鱼里点击链接时，把链接从应用内置浏览器里抢出来，交给你自己的浏览器打开。
 
 - 包名：`io.github.sol01st.nobrowser`
-- 运行环境：LSPosed · libxposed API 102 · Android 13+
+- 运行环境：Xiaomi HyperOS 4 · Android 17
 - 源码与反馈：<https://github.com/SoL01St/exlindev>
 
 <p align="left">
@@ -27,6 +27,7 @@
 
 1. 从 [Releases](https://github.com/SoL01St/exlindev/releases) 下载 APK 安装
 2. 在 LSPosed 中启用本模块，勾选所需应用作用域，重启目标应用
+3. 在模块内打开所需应用的接管开关
 
 ## 致谢
 
